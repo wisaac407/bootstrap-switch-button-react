@@ -32,7 +32,7 @@ npm i bootstrap-switch-button-react --save-dev
 ```
 Yarn
 ```bash
-yard add bootstrap-switch-button-react
+yarn add bootstrap-switch-button-react
 ```
 
 # Usage
